@@ -21,11 +21,9 @@
   - [Constantes e Enums](#constantese-enums)
 - [Exemplo de Execução](#exemplo-de-execução)
 - [Níveis de Log](#níveis-de-log)
-- [Testes](#testes)
 - [Desempenho e Limitações](#desempenho-e-limitações)
 - [Contribuições](#contribuições)
 - [Licença](#licença)
-- [Agradecimentos](#agradecimentos)
 
 ## Descrição
 
