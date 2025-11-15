@@ -66,7 +66,7 @@ Ideal para estudos acadêmicos, protótipos ou integração em projetos embarcad
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gc-c.git
+   git clone https://github.com/seu-usuario/garbage_collector-c.git
    cd gc-c
    ```
 
