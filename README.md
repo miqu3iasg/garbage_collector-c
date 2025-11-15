@@ -203,8 +203,3 @@ Após remove root: 1-4 coletados.
 ## Licença
 
 [MIT License](LICENSE) - Livre para uso, modificação e distribuição.
-
----
-
-*Última atualização: 15 de Novembro de 2025*  
-*Gerado com ❤️ por um Sênior Dev.*
